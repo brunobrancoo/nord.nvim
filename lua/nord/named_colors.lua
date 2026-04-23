@@ -6,9 +6,9 @@ local nord = {
 	light_gray = "#5B4E56", -- borders / darker contrast
 	light_gray_bright = "#74636C", -- brighter muted rose-gray
 
-	darkest_white = "#E6DADF", -- soft warm white
-	darker_white = "#F0E6EA",
-	white = "#F7EFF2",
+	darkest_white = "#D8CACE"
+	darker_white = "#E2D6D9"
+	white = "#EADFE2"
 
 	teal = "#A9BFAF",
 	off_blue = "#D8A0A8",
