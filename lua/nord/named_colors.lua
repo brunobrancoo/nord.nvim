@@ -6,19 +6,19 @@ local nord = {
 	light_gray = "#44363F",
 	light_gray_bright = "#5C4A55",
 
-	darkest_white = "#D0C4C8",
-	darker_white = "#DCD0D4",
-	white = "#E8DEE0",
+	darkest_white = "#BCADB4",
+	darker_white = "#CFC2C9",
+	white = "#F3E9ED",
 
-	-- Acentos verde (slots compatíveis com o layout Nord original)
-	teal = "#8FBC8B",
-	off_blue = "#A8C4A5",
-	glacier = "#6B9B78",
-	blue = "#4F8A62",
+	-- Acentos verde (matizes separados: menta / ciano / teal / esmeralda)
+	teal = "#4DC4A8",
+	off_blue = "#7AD0E0",
+	glacier = "#3A9B6E",
+	blue = "#2A7A52",
 	red = "#C16B72",
 	orange = "#D08A5E",
 	yellow = "#DCC27D",
-	green = "#9ED4A0",
+	green = "#5EE4B8",
 	purple = "#9B8AB5",
 	none = "NONE",
 }
