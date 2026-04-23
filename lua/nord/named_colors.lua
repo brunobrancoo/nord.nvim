@@ -1,10 +1,9 @@
 local nord = {
-	-- 16 colors
-	black = "#342C31", -- main background, soft wine-tinted dark
-	dark_gray = "#40363C", -- secondary background
-	gray = "#4B4047", -- elevated bg
-	light_gray = "#5B4E56", -- borders / darker contrast
-	light_gray_bright = "#74636C", -- brighter muted rose-gray
+	black = "#342C31",
+	dark_gray = "#40363C",
+	gray = "#4B4047",
+	light_gray = "#5B4E56",
+	light_gray_bright = "#74636C",
 
 	darkest_white = "#D8CACE",
 	darker_white = "#E2D6D9",
