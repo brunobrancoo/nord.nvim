@@ -1,24 +1,25 @@
 local nord = {
 	-- 16 colors
-	black = "#2E3440", -- nord0 in palette
-	dark_gray = "#3B4252", -- nord1 in palette
-	gray = "#434C5E", -- nord2 in palette
-	light_gray = "#4C566A", -- nord3 in palette
-	light_gray_bright = "#616E88", -- out of palette
-	darkest_white = "#D8DEE9", -- nord4 in palette
-	darker_white = "#E5E9F0", -- nord5 in palette
-	white = "#ECEFF4", -- nord6 in palette
+	black = "#342C31", -- main background, soft wine-tinted dark
+	dark_gray = "#40363C", -- secondary background
+	gray = "#4B4047", -- elevated bg
+	light_gray = "#5B4E56", -- borders / darker contrast
+	light_gray_bright = "#74636C", -- brighter muted rose-gray
 
-	teal = "#A9BFAF", -- muted sage-teal, still calm
-	off_blue = "#D8A0A8", -- dusty rose
-	glacier = "#C97E88", -- muted pink-red
-	blue = "#B45A66", -- main red accent
+	darkest_white = "#E6DADF", -- soft warm white
+	darker_white = "#F0E6EA",
+	white = "#F7EFF2",
 
-	red = "#BF616A", -- nord11 in palette
-	orange = "#D08770", -- nord12 in palette
-	yellow = "#EBCB8B", -- nord13 in palette
-	green = "#A3BE8C", -- nord14 in palette
-	purple = "#B79AAF", -- softened mauve
+	teal = "#A9BFAF",
+	off_blue = "#D8A0A8",
+	glacier = "#C97E88",
+	blue = "#B45A66",
+	red = "#BF616A",
+	orange = "#D08770",
+	yellow = "#EBCB8B",
+	green = "#A3BE8C",
+	purple = "#B79AAF",
 	none = "NONE",
 }
+
 return nord
